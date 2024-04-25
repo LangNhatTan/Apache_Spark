@@ -9,9 +9,9 @@
 # Setting and run the code
 + Step 1: Setting Spark and Python (you can search how to download Spark in youtube and setting).
 + Step 2: Download folder Spark_project.
-+ Step 3: Run file crawl_data.py to crawl data from website (Our team crawl 4500 rows in timesjobs about C# developer and write it on file csv).
-+ Step 4: Run function duplicate_data in file crawl_data.py to duplicate data up to 100 milions or more.
-+ Step 5: Run file main.py and show data just crawled.
++ Step 3: Run file <b>crawl_data.py</b> to crawl data from website (Our team crawl 4500 rows in timesjobs about C# developer and write it on file csv).
++ Step 4: Run function duplicate_data in file <b>crawl_data.py</b> to duplicate data up to 100 milions or more.
++ Step 5: Run file <b>main.py</b> and show data just crawled.
 # Note
 + If data is very big, you can connect many devices to decrese the time show data.
 # Screenshots
